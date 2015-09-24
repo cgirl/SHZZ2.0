@@ -1,0 +1,108 @@
+@CHARSET "UTF-8";
+
+#shname{ 
+	background:url(images/icons-png/user-white.png) no-repeat 10px center;
+	padding: 0px 34px;
+	/*background-color:#fdffe8;*/
+}
+
+#shpasswd{ 
+	background:url(images/icons-png/lock-white.png) no-repeat 10px center;
+	padding: 0px 34px;
+	/*background-color:#fdffe8;*/
+}
+
+#reservedpwd{
+	background-color:inherit;
+	border:0px;
+}
+
+#shsubmit{
+	background-color:#285efb;
+}
+
+#loginfooter{
+	font-size:0.7em;
+	text-align:center;
+}
+.sd-login-gal{
+	margin:10% 0;
+	padding:10%;
+}
+.gallery-child{
+	float:left;
+	width:25%;
+	padding:3%;
+	margin:1%;
+	text-align:center;
+}
+.gallery-child a{
+	display:inline-block;
+	text-decoration:none;
+}
+.gallery-child a label{
+	font-size:0.9em;
+	text-shadow:none;
+	color:#171717;
+}
+#gallery-child1{
+	background-color:#faf261;
+}
+#gallery-child2{
+	background-color:#ff5959;
+}
+#gallery-child3{
+	background-color:#80ff80;
+}
+#gallery-child4{
+	background-color:#b1736d;
+}
+#gallery-child5{
+	background-color:#828493;
+}
+#gallery-child6{
+	background-color:#b56fb3;
+}
+#gallery-child7{
+	background-color:#00ffff;
+}
+#gallery-child8{
+	background-color:#eb9d0c;
+}
+#gallery-child9{
+	background-color:#285efb;
+}
+
+.div-theme-b{
+	background-color:#373737;
+	border:1px solid #1b1b1b;
+	border-radius:0.3125em;
+}
+.div-img-center{
+	width:80px;
+	height:80px;
+	background:url(images/touxiang-mini.jpg) no-repeat center center;
+	border-radius:50%;
+	margin:10px auto;
+}
+.div-text-align{
+	text-align:center;
+	padding:10px;
+}
+.sd-list-span{
+	color:#96968d;
+	position:absolute;
+	right:0px;
+}
+.sd-list-img{
+	height:100px;
+}
+#sd-first-li{
+	background-color:#373737;
+	font-weight:bold;
+	text-align:center;
+}
+#sd-collapsible{
+	padding:2% 5% 5% 2%;
+	margin:2%;
+}
